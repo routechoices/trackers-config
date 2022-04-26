@@ -1,4 +1,4 @@
-# Trackers Configuration Files
+# GPS Trackers Configuration Files
 
 This repository contains the default configuration files for different trackers to use with routechoices.com
  
